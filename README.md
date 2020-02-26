@@ -2,19 +2,27 @@
 
 Edgar Weckelmann Gandolfi
 
+<<<<<<< HEAD
 
-# 
+
+Lena 
+
+
 alejandra
+
 marcell
 
-
-# class
 alejandra
+
 Daniel
+
 Vincenzo
+<<<<<<< HEAD
 
 Filippo ;)
 
 Pedro
 
+
+Pedro
 
