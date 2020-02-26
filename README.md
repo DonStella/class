@@ -1,5 +1,19 @@
 # class
 
+
+
+
+
+
+
+
+
+
+
+
+
+Pei-Ling
+
 Edgar Weckelmann Gandolfi
 
 <<<<<<< HEAD
@@ -25,4 +39,5 @@ Pedro
 
 
 Pedro
+
 
