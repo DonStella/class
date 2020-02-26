@@ -1,43 +1,21 @@
 # class
 
-
-
-
-
-
-
-
-
-
-
-
-
 Pei-Ling
 
 Edgar Weckelmann Gandolfi
 
-<<<<<<< HEAD
-
-
 Lena 
 
+Alejandra
 
-alejandra
-
-marcell
+Marcell
 
 alejandra
 
 Daniel
 
 Vincenzo
-<<<<<<< HEAD
 
 Filippo ;)
 
 Pedro
-
-
-Pedro
-
-
