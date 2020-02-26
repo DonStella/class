@@ -1,5 +1,19 @@
 # class
 
+
+
+
+
+
+
+
+
+
+
+
+
+Pei-Ling
+
 Edgar Weckelmann Gandolfi
 
 Lena 
@@ -15,4 +29,5 @@ Daniel
 Vincenzo
 
 Pedro
+
 
