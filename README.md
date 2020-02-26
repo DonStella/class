@@ -1,3 +1,6 @@
+# class
+
+Edgar Weckelmann Gandolfi
 
 # 
 alejandra
@@ -9,4 +12,5 @@ alejandra
 Daniel
 Vincenzo
 Pedro
+
 
