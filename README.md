@@ -1,1 +1,3 @@
 # class
+
+Edgar Weckelmann Gandolfi
