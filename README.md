@@ -1,3 +1,6 @@
+# class
+
+Edgar Weckelmann Gandolfi
 
 
 # 
@@ -9,4 +12,9 @@ marcell
 alejandra
 Daniel
 Vincenzo
+
 Filippo ;)
+
+Pedro
+
+
